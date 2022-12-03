@@ -1,3 +1,5 @@
+How to Uninstall Software on Kali Linux
+
 You can use the dpkg command to see a list of all installed packages on your computer.
 
 dpkg --list
